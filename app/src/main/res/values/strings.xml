@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="NewTask">NewTask</string>
+    <string name="clearAll">ClearAll</string>
+</resources>
